@@ -1,5 +1,5 @@
 ## Deployed App
-This project is deployed on Netflify at: https://dungeon-of-the-haunted-forest.netlify.com/
+This project is deployed on Netflify at: https://mud-fe.vercel.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
